@@ -1,6 +1,11 @@
 # LITA_Class_Documentation
+### Poject Title: E commerce Sales for Analysis
+
 ### Project Overview
+
+---
 ### Data Sources
+
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
 - For Data Cleaning
