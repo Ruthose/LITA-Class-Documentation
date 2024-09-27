@@ -25,5 +25,8 @@ EDA involved the exploring of the Dta to answer some questions about the Data su
   ### Data Analysis
   This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
-
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
 
