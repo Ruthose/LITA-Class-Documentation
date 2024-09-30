@@ -11,13 +11,13 @@ The e-commerce sales analysis project identified areas for improvement, recommen
 
 ---
 ### Data Sources
-1. Google Analytics
-2. Mixpanel
-3. Salesforce
-4. HubSpot
-5. Tableau
-6. Power BI
-7. Excel
+- Google Analytics
+- Mixpanel
+- Salesforce
+- HubSpot
+- Tableau
+- Power BI
+- Excel
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
