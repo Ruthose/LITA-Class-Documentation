@@ -7,9 +7,17 @@
 [Tools Used](#tools-used)
 
 ### Project Overview
+The e-commerce sales analysis project identified areas for improvement, recommending mobile optimization, personalized marketing, and customer segmentation to increase conversion rates, average order value, and sales revenue.
 
 ---
 ### Data Sources
+1. Google Analytics
+2. Mixpanel
+3. Salesforce
+4. HubSpot
+5. Tableau
+6. Power BI
+7. Excel
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -40,7 +48,22 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-### Data Visualization
+### Visualisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
