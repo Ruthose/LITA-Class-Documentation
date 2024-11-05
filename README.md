@@ -6,7 +6,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preperation](#data cleaning and preperation)
+[Data Cleaning and Preperation](#data cleaning and - preperation)
 
 ### Project Overview
 The e-commerce sales analysis project identified areas for improvement, recommending mobile optimization, personalized marketing, and customer segmentation to increase conversion rates, average order value, and sales revenue.
