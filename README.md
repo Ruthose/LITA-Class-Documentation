@@ -63,3 +63,8 @@ WHERE CONDITION = TRUE
 
 
 ### Visualization
+[RUTH'S TEXT-CLEANING 2](https://github.com/user-attachments/assets/d22b6eed-20d8-42a7-bde7-93aa2c566db1)
+
+
+[RUTH'S TEXT CLEANING](https://github.com/user-attachments/assets/1616e67c-bdfa-4765-8d42-3e997b024d27)
+
