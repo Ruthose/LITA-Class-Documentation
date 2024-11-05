@@ -10,6 +10,8 @@
 
 [Exploratory Data Analysis](#exploratorydataanalysis)
 
+[Data Analysis](#data-analysis)
+
 
 
 ### Project Overview
